@@ -1,4 +1,4 @@
-package com.coderpakistan.workmanager
+package com.coderpakistan.workmanager.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
